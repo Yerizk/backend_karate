@@ -1,2 +1,0 @@
-# backend_karate
-Automatización
